@@ -23,12 +23,10 @@ https://github.com/cristianmorlos1/programacion_mariazambrano_2025.git
 
 ---
 
-## 🌱 CREA TU PROPIA RAMA (sin usar terminal)
+## 🌱 CREA TU PROPIA RAMA
 
-1. En la esquina inferior izquierda de VS Code, haz clic sobre la rama que aparece (por defecto, `main`).
-2. Se abrirá un menú arriba. Haz clic en **"Create new branch..."**.
-3. Escribe tu nombre o apodo (por ejemplo: `lucia`, `mario01`, `ana_rama`) y pulsa `Enter`.
-4. Ahora ya estás trabajando en tu propia rama.
+1. Cada alumno debe crear una rama con su nombre o identificador. En el terminal:
+   **git checkout -b** rama-nombre-alumno
 
 ---
 
@@ -39,6 +37,12 @@ https://github.com/cristianmorlos1/programacion_mariazambrano_2025.git
 3. Verás los archivos modificados.
 4. Escribe un mensaje en el cuadro de texto (por ejemplo: `Añadido ejercicio HTML`) y pulsa el icono del ✔️ para confirmar los cambios (*commit*).
 5. Luego haz clic en los tres puntos `⋮` (arriba del panel) > **Push** para subir tus cambios a tu rama en GitHub.
+
+Mediante terminal se haría de la siguiente forma:
+
+git add .
+git commit -m "Mi mensaje de cambios"
+git push origin rama-nombre-alumno
 
 ---
 
