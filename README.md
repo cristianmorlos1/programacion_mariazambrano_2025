@@ -42,9 +42,14 @@ https://github.com/cristianmorlos1/programacion_mariazambrano_2025.git
 Mediante terminal se haría de la siguiente forma:
 
 `git add .`
+
 `git commit -m "Mi mensaje de cambios"`
+
 `git push origin rama-nombre-alumno`
 
+Para volver a traer los cambios más recientes:
+
+`git pull origin rama-nombre-alumno`
 ---
 
 ## 💡 CONSEJOS
