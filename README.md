@@ -27,7 +27,7 @@ https://github.com/cristianmorlos1/programacion_mariazambrano_2025.git
 
 1. Cada alumno debe crear una rama con su nombre o identificador. En el terminal:
 
-   `**git checkout -b** rama-nombre-alumno`
+   `git checkout -b rama-nombre-alumno`
 
 ---
 
@@ -41,9 +41,9 @@ https://github.com/cristianmorlos1/programacion_mariazambrano_2025.git
 
 Mediante terminal se haría de la siguiente forma:
 
-`git add .
-git commit -m "Mi mensaje de cambios"
-git push origin rama-nombre-alumno`
+`git add .`
+`git commit -m "Mi mensaje de cambios"`
+`git push origin rama-nombre-alumno`
 
 ---
 
