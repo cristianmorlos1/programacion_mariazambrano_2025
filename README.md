@@ -16,6 +16,7 @@ Aquí trabajaremos con Visual Studio Code y GitHub para aprender a crear, modifi
 - Escribe y selecciona **`Git: Clone`**.
 - Pega esta URL del repositorio:
 
+https://github.com/cristianmorlos1/programacion_mariazambrano_2025.git 
 
 - Elige una carpeta de tu ordenador donde quieres guardar el proyecto (por ejemplo: `Documentos` o `Proyectos`).
 - Visual Studio Code te preguntará si quieres abrir el repositorio. Pulsa **"Sí"**.
