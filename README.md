@@ -50,6 +50,7 @@ Mediante terminal se haría de la siguiente forma:
 Para volver a traer los cambios más recientes:
 
 `git pull origin rama-nombre-alumno`
+
 ---
 
 ## 💡 CONSEJOS
