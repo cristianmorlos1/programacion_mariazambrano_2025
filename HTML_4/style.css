@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  
+  h1 {
+    color: rgb(25, 0, 139);
+    cursor: pointer;
+  }
+  
+  a {
+    color: rgb(139, 139, 0);
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  img {
+    border: 5px solid darkblue;
+    border-radius: 14px;
+  }
+  
