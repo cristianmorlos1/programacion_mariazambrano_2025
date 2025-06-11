@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #aa0909;
+    text-align: center;
+  }
+  
+  h1 {
+    color: rgb(206, 113, 7);
+    cursor: pointer;
+  }
+  
+  a {
+    color: rgb(204, 159, 10);
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  img {
+    border: 5px solid rgb(134, 224, 15);
+    border-radius: 14px;
+  }
+  
