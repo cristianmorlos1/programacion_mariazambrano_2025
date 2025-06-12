@@ -10,14 +10,27 @@ h1 {
 }
 
 p {
-    font-size: 20px;
+    font-size: 28px;
     color: rgb(255, 255, 255);
 }
 
+p1 {
+    font-size: 20px;
+    color: rgb(205, 255, 238);
+}
+
 img {
-    transition: transform 0.3s ease;
+    transition: transform 0.4s ease;
 }
 
 img:hover {
-    transform: scale(1.05);
+    transform: scale(1.15);
+}
+
+img.imagen-grande {
+    transition: transform 0.2s ease;
+}
+
+img.imagen-grande:hover {
+    transform: scale(1.02);
 }
